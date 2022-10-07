@@ -1,4 +1,4 @@
-package com.testcases;
+package com.qa.testcases;
 
 import java.nio.file.Paths;
 
